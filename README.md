@@ -1,8 +1,8 @@
-# StylisedPersonalSite
-In this project ([image](projeto.png) or <a href="https://yamachitar.github.io/StylisedPersonalSite/" target = "_blank"> page</a>), we will create a professional profile. This knowledge was taught in the course [**The Complete 2022 Web Development Bootcamp**](https://www.udemy.com/share/1013gG3@FCIym5wm006ZRYxkEXcLqet13JMb0iEllk-2JHZHWGsPx_mwz0woUwM5OfM8wQ2-/) offered on the Udemy platform.
+# Stylised Personal Site
+In this project ([Image](projeto.png) or [Page](https://yamachitar.github.io/StylisedPersonalSite/)), we will create a professional profile. This knowledge was taught in the course [**The Complete 2022 Web Development Bootcamp - Udemy**](https://www.udemy.com/share/1013gG3@FCIym5wm006ZRYxkEXcLqet13JMb0iEllk-2JHZHWGsPx_mwz0woUwM5OfM8wQ2-/).
 
 
-[Este projeto](projeto.png) constitui construir  um perfil profissional. Foi ensinado no curso  [**The Complete 2022 Web Development Bootcamp**](https://www.udemy.com/share/1013gG3@FCIym5wm006ZRYxkEXcLqet13JMb0iEllk-2JHZHWGsPx_mwz0woUwM5OfM8wQ2-/) oferecido pela plataforma Udemy
+Este projeto ([Image](projeto.png) or [Page](https://yamachitar.github.io/StylisedPersonalSite/) )constitui construir  um perfil profissional. Foi ensinado no curso  [**The Complete 2022 Web Development Bootcamp - Udemy**](https://www.udemy.com/share/1013gG3@FCIym5wm006ZRYxkEXcLqet13JMb0iEllk-2JHZHWGsPx_mwz0woUwM5OfM8wQ2-/).
 
 
 Talvez no futuro vou fazer algumas melhorias:
@@ -15,4 +15,4 @@ Talvez no futuro vou fazer algumas melhorias:
 * Colocar icone. 
 
 
-[go](http://stackoverflow.com){:target="_blank"}.
+
